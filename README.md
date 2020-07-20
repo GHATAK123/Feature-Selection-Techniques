@@ -1,0 +1,2 @@
+# Feature-Selection-Techniques
+Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in. Adequate selection of features may improve accuracy and efficiency of classifier methods. Feature ranking and selection for classification aims at reducing the dimensionality and noise in data sets.
